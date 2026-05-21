@@ -9,7 +9,6 @@ Peru Compras es la plataforma del Estado peruano donde las entidades públicas r
 - **Auditores y analistas de la Contraloría** para identificar patrones de concentración de proveedores
 - **Funcionarios del MEF** para evaluar comportamiento de ejecución presupuestal
 - **Periodistas e investigadores** interesados en transparencia del gasto público
-- **Analistas de datos** como referencia de pipeline ETL sobre datos gubernamentales reales
 
 ---
 
