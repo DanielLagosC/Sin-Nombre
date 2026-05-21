@@ -2,8 +2,8 @@
 
 ## ¿Qué es este proyecto?
 
-Peru Compras es la plataforma del Estado peruano donde las entidades públicas realizan compras de bienes y servicios a través de catálogos electrónicos preaprobados. Este proyecto extrae, limpia y modela **474,845 órdenes de compra reales** registradas entre 2022 y 2026, con el objetivo de caracterizar cómo, cuándo y con quién compran las entidades públicas peruanas.
-Para el análisis principal se excluyeron los registros correspondientes a 2026, al tratarse de un año aún no cerrado. De esta manera, el universo analítico utilizado para los indicadores principales fue de 448,009 órdenes.
+Peru Compras es la plataforma del Estado peruano donde las entidades públicas realizan compras de bienes y servicios a través de catálogos electrónicos preaprobados. Este proyecto extrae, limpia y modela **474,845 órdenes de compra reales** registradas entre 2022 y 2026, con el objetivo de caracterizar cómo, cuándo y con quién compran las entidades públicas peruanas.  
+Para el análisis principal se excluyeron los registros correspondientes a 2026, al tratarse de un año aún no cerrado. De esta manera, el universo analítico utilizado para los indicadores principales fue de **448,009 órdenes**.
 
 <img width="1212" height="732" alt="dashboard_compras_ordinarias" src="https://github.com/user-attachments/assets/6de2aa9a-6646-4996-a203-d938173317c3" />
 <img width="1203" height="727" alt="dashboard_grandes_compras" src="https://github.com/user-attachments/assets/d26c9647-034c-48c6-a7f5-8478e4a036b7" />
